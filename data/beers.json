@@ -10,5 +10,17 @@
   "name": "heineken",
   "abv": "5%",
   "img": "https://www.drinks4you.eu/wp-content/uploads/2018/10/022601..jpg"
+  },
+  {
+  "id": "3",
+  "name": "Jupiler",
+  "abv": "5.2%",
+  "img": "https://www.dirckiii.nl/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/2/8/28ea41a70d66e889936c0b46c834d692d8b5c215_jupiler_fles.jpg"
+  },
+  {
+  "id": "4",
+  "name": "Hertog Jan",
+  "abv": "5.1%",
+  "img": "https://www.drinks4you.eu/wp-content/uploads/2018/10/022701..jpg"
   }
 ]
